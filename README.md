@@ -3,7 +3,7 @@
 This is a repo containg the jupiter file for the AIDL A02 module.
 
 ## Student: Zelios Andreas mscaidl0142
-## Module Instructor: Panagiotis Kasnesis
+## Module Instructor: [Panagiotis Kasnesis](https://github.com/ounospanas)
 
 ### Project's Dataset - Objective
 
