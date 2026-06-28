@@ -16,4 +16,4 @@ The content of this repository, including but not limited to source code, script
 4. NO WARRANTY
 This software is provided "as is", without warranty of any kind, express or implied. The author shall not be held liable for any claim, damages, or other liability arising from the use of this software.
 
-For inquiries regarding licensing for commercial use or other purposes, please contact: [Το email σου]
+For inquiries regarding licensing for commercial use or other purposes, please contact: antreaszel@gmail.com
