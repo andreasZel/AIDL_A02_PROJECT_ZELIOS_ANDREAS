@@ -28,3 +28,10 @@ This project focuses on creating:
 Improving results with:
 
 - Data Augmentation
+
+## Running
+
+1. Add all the subfolders in [/dataset](/dataset) to your google drive, in a folder structure
+`AIDL02/PROJECT/DATA`, so in the **DATA** folder.
+
+2. Then use the jupiter file colab that is linked with your drive account.
